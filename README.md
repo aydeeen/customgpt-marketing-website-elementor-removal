@@ -6,6 +6,15 @@
 
 ---
 
+## Where the code lives
+
+**All implementation files are in the main theme repo:**
+[github.com/aydeeen/customgpt](https://github.com/aydeeen/customgpt) — branch `dev`
+
+This repo is documentation only: project spec, architecture decisions, test log, and phase tracking. No code lives here.
+
+---
+
 ## Why we're doing this
 
 - Elementor adds ~500 KB of CSS/JS to every page load even when a page uses only a fraction of its features.
